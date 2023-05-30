@@ -1,7 +1,7 @@
 #pragma once
 #include<iostream>
 using namespace std;
-#include "identity.h"
+#include "Identity.h"
 #include<vector>
 #include"student.h"
 #include"computerRoom.h"

@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 using namespace std;
-#include "identity.h"
+#include "Identity.h"
 
 class Teacher :public Identity
 {
